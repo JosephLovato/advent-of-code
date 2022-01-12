@@ -1,5 +1,6 @@
 CMakeCache.txt
 CmakeFiles/*
+cmake_install.cmake
 CMakeLists.txt
 CPackConfig.cmake
 CPackSourceConfig.cmake
