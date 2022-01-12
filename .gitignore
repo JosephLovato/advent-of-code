@@ -12,3 +12,4 @@ advent
 build/
 main.cpp
 out.txt
+.vscode/*
