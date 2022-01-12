@@ -1,0 +1,13 @@
+CMakeCache.txt
+CmakeFiles/*
+CMakeLists.txt
+CPackConfig.cmake
+CPackSourceConfig.cmake
+CTestTestfile.cmake
+DartConfiguration.tcl
+Makefile
+Testing/*
+advent
+build/
+main.cpp
+out.txt
